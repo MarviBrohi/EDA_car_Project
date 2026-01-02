@@ -22,11 +22,3 @@ The first step involved in ML using python is understanding and playing around w
 Import all libraries required for our analysis, such as those for data loading, statistical analysis, visualizations, data transformations, and merging and joining.
 Pandas and Numpy have been used for Data Manipulation and numerical Calculations
 Matplotlib and Seaborn have been used for Data visualizations. 
-
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-#to ignore warnings
-import warnings
-warnings.filterwarnings('ignore')
